@@ -15,3 +15,4 @@ This project is a **Password Strength Checker** that evaluates a password based 
 - **Feedback**: Provides actionable feedback on how to improve your password.
 
 ## Example Output
+![Project Image](image.jpg)
